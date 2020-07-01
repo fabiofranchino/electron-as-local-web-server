@@ -18,5 +18,8 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^9.0.5"
+  },
+  "dependencies": {
+    "node-static": "^0.7.11"
   }
 }
